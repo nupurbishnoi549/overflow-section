@@ -23,11 +23,13 @@
     margin-left: -12px;
     margin-right: -12px;
 }
-.col-12{
+
+.col-12 {
     width: 100%;
-padding-left: 12px;
+    padding-left: 12px;
     padding-right: 12px;
 }
+
 .bg-color {
     background-color: #1D1A1A;
 }
@@ -49,7 +51,7 @@ padding-left: 12px;
     padding-bottom: 24px;
 }
 
-.page {
+.page1 {
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -63,7 +65,7 @@ padding-left: 12px;
 
 
 
-   
+
 .number {
     font-family: 'Poppins', sans-serif;
     font-size: 22px;
@@ -85,8 +87,7 @@ padding-left: 12px;
     text-align: left;
     color: #FFFFFF;
 }
-
-.page2 {
+.para {
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -129,7 +130,7 @@ padding-left: 12px;
 
 
 
-.circle {
+.box1 {
     width: 71px;
     height: 71px;
     background-color: #FFFFFF;
@@ -146,7 +147,7 @@ padding-left: 12px;
     background-color: #0C0B0B;
 }
 
-.box:hover .circle {
+.box:hover .box1 {
     background: linear-gradient(90deg, #FFA800 0%, #F06500 100%);
     color: white;
 }
@@ -172,7 +173,7 @@ padding-left: 12px;
         margin-bottom: 0;
     }
 
-    .card1 {
+    .box3 {
         width: 50%;
         position: absolute;
         top: 50%;
